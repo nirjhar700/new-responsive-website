@@ -1,5 +1,6 @@
 * {
  font-family: 'Work Sans';
+
 }
 
 .paragraph-design {
@@ -12,7 +13,7 @@
 
 }
 
-.primary-text-3 {
+.primary-text {
   color: #0B0223;
 
   font-size: 3rem;
@@ -198,14 +199,11 @@ nav>ul li a{
 
 }
 
-/* pore--korsi */
+/* /*later/ */
 
 
 
-.img-card img {
-  max-width: 100%;
-  display: block;
-}
+
 
 .img-card {
   max-width: 200px;
@@ -355,7 +353,7 @@ fa-play:hover {
 }
 footer{
   background-color: #04010c;
-
+ 
 }
 
 .footer-img {
@@ -398,14 +396,14 @@ color: white;
   margin-left: auto;
   margin-right: auto;
 }
-.last{
+.last-div{
   display: flex;
   align-items: center;
   margin-bottom: 10px;
 
   justify-content: center;
 }
-.last p{
+.last-div p{
   color: rgb(69, 73, 76);
 }
 
@@ -559,28 +557,7 @@ color: white;
       
       }
   }
-  /* extra for btn*/
-  @media screen and (max-width:576px) and  (min-width:450px){
-      .card{
-          margin: 5px auto;
-          width: 150px;
-          height: 50px;
-          font-size: 0.5em;
-      }
-
-  }
-  @media screen and (max-width:576px){
-      .card{
-          margin: 5px auto;
-          width: 100px;
-          height: 50px;
-          font-size: 0.5em;
-      }
-
-
-  }
-     
-
+ 
 
 
 
